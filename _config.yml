@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: WooGenius Blog
+locale: ko_KR
+description: WooGenius Blog
 logo: site-logo.png
 search: true
-url: http://woogenius.me:4000 
+url: http://blog.woogenius.me 
 
 
 # Jekyll configuration
@@ -20,6 +20,7 @@ gems:
   - jekyll-sitemap
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
