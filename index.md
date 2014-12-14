@@ -9,6 +9,7 @@ NHN NEXT에서 공부하고 있는 **Front-end Developer 김우진**입니다.
 **행복하게 사는 것**과 **Hiphop**, **Programming**에 관심이 있습니다.
 
 # 연락주세요.
+현재 열정을 쏟아 즐기며 일할 곳을 찾고있습니다.
 저에게 관심이 있으시다면 아래로 연락주세요.
 
 <div class="social-icons">

@@ -8,9 +8,11 @@ excerpt: "Works by WooGenius"
 
 ---
 
-<img src="/images/works/bnw2.png" alt="image" style="float:right; width:50%; margin:10px;">
 
 ### 흑과백2 온라인
+
+<img src="/images/works/bnw2.png" alt="image" style="float:right; width:50%; margin:10px;">
+
 더 지니어스 시즌3 블랙가넷에 나온 흑과백2게임의 온라인버젼입니다. 팀원들과 프로젝트를 진행하면서 혼자 공부의 목적으로 2주에 걸쳐 개발하였습니다. 게임룰에 대한 설명은 [여기](http://www.youtube.com/watch?v=eb5cGFRrmsg)서 확인하실 수 있습니다.
 
 * 개발기간 : 2주일
@@ -20,9 +22,11 @@ excerpt: "Works by WooGenius"
 
 <hr style="clear:both;">
 
-<img src="/images/works/rafc.png" alt="image" style="float:right; width:50%; margin:10px;">
 
 ### Runaway for chicken
+
+<img src="/images/works/rafc.png" alt="image" style="float:right; width:50%; margin:10px;">
+
 HTML5를 이용한 간단한 러너게임입니다. 해카톤에 참가하여 24시간만에 팀원들과 만들어 전체에서 2등을 하였습니다.
 
 * 개발기간 : 24시간
@@ -33,9 +37,11 @@ HTML5를 이용한 간단한 러너게임입니다. 해카톤에 참가하여 24
 
 <hr style="clear:both;">
 
-<img src="/images/works/highlighter.png" alt="image" style="float:right; width:50%; margin:10px;">
 
 ### Highlighter
+
+<img src="/images/works/highlighter.png" alt="image" style="float:right; width:50%; margin:10px;">
+
 javascript를 사용하여 만든 Highlighting Library입니다. 기존의 사용자경험을 개선하여, 오른쪽으로 드래그하면 하이라이팅이 되고, 왼쪽으로 드래그하면 하이라이팅 한 부분이 지워지게 만들었습니다. 그리고 serialize함수를 통해 하이라이팅을 저장하고, deserialize함수를 통해 하이라이팅 한 부분을 다시 불러 올 수 있게하여, 서버에서 하이라이팅한 부분을 쉽게 저장하고 다시 불러 올 수 있도록 하였습니다. 현재 크롬에서만 동작합니다.
 
 * 개발기간 : 4주
@@ -45,9 +51,10 @@ javascript를 사용하여 만든 Highlighting Library입니다. 기존의 사�
 
 <hr style="clear:both;">
 
+### SketchBook
+
 <img src="/images/works/sketchbook.png" alt="image" style="float:right; width:50%; margin:10px;">
 
-### SketchBook
 HTML5 canvas를 사용하여 만든 그림판 서비스 입니다. 실제펜과 비슷한 필기감을 주고자 마우스의 이동속도를 계산하여 빠르게 그리면 펜이 가늘어지고, 느리게 그리면 펜이 굵어지도록 하였습니다.
 
 * 개발기간 : 4주
@@ -57,9 +64,11 @@ HTML5 canvas를 사용하여 만든 그림판 서비스 입니다. 실제펜과 
 
 <hr style="clear:both;">
 
-<img src="/images/works/webgl.png" alt="image" style="float:right; width:50%; margin:10px;">
 
 ### WebGL
+
+<img src="/images/works/webgl.png" alt="image" style="float:right; width:50%; margin:10px;">
+
 공부(과제)의 목적으로 WebGL을 사용하여 만든것들입니다. 일부는 three.js를 사용하여 구현하였습니다. 현재 크롬에서만 동작합니다.
 
 * 개발기간 : 2주
