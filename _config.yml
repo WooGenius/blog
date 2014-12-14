@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: WooGenius Blog
+title: Kim Woo Jin
 locale: ko_KR
-description: Learning By Doing!
+description: Learning by Doing.
 logo: site-logo.png
 search: true
-url: http://woogenius.me 
+# url: http://woogenius.me 
 
 
 # Jekyll configuration
@@ -33,21 +33,21 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  name: WooGenius
+  avatar: site-logo.png
+  email: woog2nius@gmail.com
+  disqus-shortname: woogenius
+  twitter: woogenius
+  facebook: woogenius
+  github: WooGenius
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: woogenius
   instagram: #username
   flickr: #username
   tumblr: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-57649737-1
     verify:
     ad-client:
     ad-slot: 
