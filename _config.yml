@@ -5,7 +5,7 @@ locale: ko_KR
 description: Learning By Doing!
 logo: site-logo.png
 search: true
-# url: http://blog.woogenius.me 
+url: http://woogenius.me 
 
 
 # Jekyll configuration
