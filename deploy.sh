@@ -1,5 +1,5 @@
 #!/bin/bash
-git add .
+git add -A
 read -p "Commit Message : " desc
 git commit -m "$desc"
 git push deploy master
