@@ -13,7 +13,7 @@ excerpt: "Works by WooGenius"
 
 <img src="/images/works/bnw2.png" alt="image" style="float:right; width:50%; margin:10px;">
 
-더 지니어스 시즌3 블랙가넷에 나온 흑과백2게임의 온라인버젼입니다. 팀원들과 프로젝트를 진행하면서 혼자 공부의 목적으로 2주에 걸쳐 개발하였습니다. 게임룰에 대한 설명은 [여기](http://www.youtube.com/watch?v=eb5cGFRrmsg)서 확인하실 수 있습니다.
+[더 지니어스 시즌3 블랙가넷](http://program.interest.me/tvn/thegenius3)에 나온 흑과백2게임의 온라인버젼입니다. 팀원들과 프로젝트를 진행하면서 혼자 공부의 목적으로 2주에 걸쳐 개발하였습니다. 게임룰에 대한 설명은 [여기](http://www.youtube.com/watch?v=eb5cGFRrmsg)서 확인하실 수 있습니다.
 
 * 개발기간 : 2주일
 * [demo](http://woogenius.me/works/node.js/genius-game-bnw2/)
