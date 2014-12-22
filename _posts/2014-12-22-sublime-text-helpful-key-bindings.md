@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Sublime Text 유용한 단축키 모음
+title: Sublime Text 유용한 단축키 세팅하기. & 몇가지 팁들
 tags: [Sublime Text]
 share: True
-excerpt: Sublime Text 유용한 단축키 모음
+excerpt: Sublime Text 유용한 단축키 세팅하기.
 comments: True
 categories: blog
 
 ---
 
-eclipse를 사용하다가 Sublime Text를 사용하면 eclipse에서 쓰는 여러가지 단축키들을 쓸 수 없어서 불편했다. 그래서 eclipse의 여러가지 단축키들을 Sublime Text에서도 쓸 수 있게 Sublime Text의 Key Bindings세팅을 변경했다. 그리고 여러가지 유용한 단축키들을 추가했는데, 필요한 사람이 있을 것 같아 내 Sublime Text Key Bindings 세팅을 공유한다. 
+## 단축키 세팅하기
+
+eclipse를 사용하다가 Sublime Text를 사용하면 eclipse에서 쓰는 여러가지 단축키들을 쓸 수 없어서 불편했다. 그래서 eclipse의 여러가지 단축키들을 Sublime Text에서도 쓸 수 있게 Sublime Text의 Key Bindings세팅을 변경했다. 그리고 유용한 단축키들을 추가했는데, 필요한 사람이 있을 것 같아 내 Sublime Text Key Bindings 세팅을 공유한다. 
 
 Mac OS기준이며 ```Sublime Text > Preferences > Key Bindings - User```를 클릭하면 열리는 파일을 수정하면 된다.
 
@@ -45,3 +47,21 @@ Mac OS기준이며 ```Sublime Text > Preferences > Key Bindings - User```를 클
 {% endhighlight %}
 
 주석을 보고 필요한 단축키만 추가해서 사용하거나, 키가 맘에 들지 않으면 수정해서 사용하면 되겠다.
+
+## 몇가지 팁들
+
+* ```cmd + click```을 통해 커서를 원하는 위치에 여러개 만들 수 있다.
+* ```cmd + l```을 누르면 한줄 선택이 되고 여러번 누르면 여러줄 선택이 된다. 그리고 ```cmd + shift + l```을 통해 모든 라인의 끝에 커서를 생성 할 수 있다.
+* ```Project``` 메뉴에 ```Save Project As...```을 통해 프로젝트를 저장하고 ```cmd + ctl + p```를 통해 프로젝트를 불러 올 수 있다.
+* 아래의 명령어를 터미널에 사용하면 터미널에서 어디에서든 ```$ subl ./ ```명령을 통해 현재 위치한 폴더를 기반으로 Sublime Text를 실행 시킬 수 있다.[^1]
+
+[^1]:<https://www.sublimetext.com/docs/2/osx_command_line.html>
+
+{% highlight bash %}
+# Sublime Text 2 일 경우
+$ ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+# Sublime Text 3 일 경우
+$ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+{% endhighlight %}
+
+* ```cmd + p```를 누르면 창이 뜨는데 여기에 파일이름을 입력하면 어디서든 원하는 파일로 이동 할 수 있다.
