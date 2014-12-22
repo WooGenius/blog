@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git Case Study Slide
-tags: [git]
+tags: [git, slideshare]
 share: True
 excerpt: 
 comments: True

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTML5 Web Workers Slide
-tags: [html5]
+tags: [html5, slideshare]
 share: True
 excerpt: HTML5 Web Workers Slideshare
 comments: True

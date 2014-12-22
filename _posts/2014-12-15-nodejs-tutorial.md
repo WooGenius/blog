@@ -1,7 +1,7 @@
 ---
 layout: post
 title: node.js Tutorial Slide
-tags: [node.js]
+tags: [node.js, slideshare]
 share: True
 excerpt: 
 comments: True
