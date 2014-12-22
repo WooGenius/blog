@@ -53,7 +53,7 @@ Mac OS기준이며 ```Sublime Text > Preferences > Key Bindings - User```를 클
 * ```cmd + click```을 통해 커서를 원하는 위치에 여러개 만들 수 있다.
 * ```cmd + l```을 누르면 한줄 선택이 되고 여러번 누르면 여러줄 선택이 된다. 그리고 ```cmd + shift + l```을 통해 모든 라인의 끝에 커서를 생성 할 수 있다.
 * ```Project``` 메뉴에 ```Save Project As...```을 통해 프로젝트를 저장하고 ```cmd + ctl + p```를 통해 프로젝트를 불러 올 수 있다.
-* 아래의 명령어를 터미널에 사용하면 터미널에서 어디에서든 ```$ subl ./ ```명령을 통해 현재 위치한 폴더를 기반으로 Sublime Text를 실행 시킬 수 있다.[^1]
+* 아래의 명령어를 터미널에 사용하면 터미널 어디에서든 ```$ subl ./ ```명령을 통해 현재 위치한 폴더를 기반으로 Sublime Text를 실행 시킬 수 있다.[^1]
 
 [^1]:<https://www.sublimetext.com/docs/2/osx_command_line.html>
 
