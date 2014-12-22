@@ -9,7 +9,9 @@ categories: blog
 
 ---
 
-eclipse를 사용하다가 Sublime Text를 사용하면 eclipse에서 쓰는 여러가지 단축키들을 쓸 수 없어서 불편했다. 그래서 eclipse의 여러가지 단축키들을 Sublime Text에서도 쓸 수 있게 Sublime Text의 Key Bindings세팅을 변경했다. 그리고 여러가지 유용한 단축키들을 추가했는데, 필요한 사람이 있을 것 같아 내 Sublime Text Key Bindings 세팅을 공유한다. Mac OS기준이며 ```Sublime Text > Preferences > Key Bindings - User```를 클릭하면 열리는 파일을 수정하면 된다.
+eclipse를 사용하다가 Sublime Text를 사용하면 eclipse에서 쓰는 여러가지 단축키들을 쓸 수 없어서 불편했다. 그래서 eclipse의 여러가지 단축키들을 Sublime Text에서도 쓸 수 있게 Sublime Text의 Key Bindings세팅을 변경했다. 그리고 여러가지 유용한 단축키들을 추가했는데, 필요한 사람이 있을 것 같아 내 Sublime Text Key Bindings 세팅을 공유한다. 
+
+Mac OS기준이며 ```Sublime Text > Preferences > Key Bindings - User```를 클릭하면 열리는 파일을 수정하면 된다.
 
 {% highlight javascript %}
 // Default (OSX).sublime-keymap
