@@ -45,17 +45,19 @@ $ cd ~/Library/Application Support/Sublime Text 2
 </snippet>
 {% endhighlight %}
 
-이렇게 될 것 이다. --가 앞에 있는 줄이 바꾸기 전이고, ++가 앞에 있는 줄이 바꾼 후 이다. 저장하고 다시 Sublime Text를 실행 시켜보면 javascript 문법에 맞는 코드완성을 볼 수 있을 것이다.
+이렇게 될 것 이다. -가 앞에 있는 줄이 바꾸기 전이고, +가 앞에 있는 줄이 바꾼 후 이다. 저장하고 다시 Sublime Text를 실행 시켜보면 javascript 문법에 맞는 코드완성을 볼 수 있을 것이다.
 
 ---
 
 ## Sublime Text 3
 
-Sublime Text 2와 동일한 경로엔 기본 Package가 아닌 내가 설치한 Package만 있다. 기본 Package는 Application파일에 내장되어 있다. 만약 Applications폴더로 Application을 옮겼다면 다음과 같이 터미널에 입력한다. 그게 아니거나 실행파일의 위치를 알고 있다면, 설치한 장소로 이동하여 오른쪽 버튼을 클릭하고 **Show Package Contents**를 클릭한다.
+Sublime Text 2와 동일한 경로엔 기본 Package가 아닌 내가 설치한 Package만 있다. 기본 Package는 Application파일에 내장되어 있다. 만약 Applications폴더로 Application을 옮겼다면 다음과 같이 터미널에 입력한다. 
 
 {% highlight bash %}
 $ cd /Applications/Sublime Text.app
 {% endhighlight %}
+
+그게 아니거나 실행파일의 위치를 알고 있다면, 설치한 장소로 이동하여 오른쪽 버튼을 클릭하고 **Show Package Contents**를 클릭한다.
 
 그리고 **Contents/MacOS/Packages**폴더로 가면 여러종류의 sublime-package파일이 있다. 이것들이 모두 Sublime Text 3와 함께 기본으로 설치되는 Package인데, 그 중 JavaScript.sublime-package파일의 압축을 풀어준다. 터미널을 이용한다면 명령어는 다음과 같다.
 
@@ -77,7 +79,7 @@ $ unzip JavaScript.sublime-package -d ./JavaScript/
 </snippet>
 {% endhighlight %}
 
-이렇게 될 것 이다. --가 앞에 있는 줄이 바꾸기 전이고, ++가 앞에 있는 줄이 바꾼 후 이다. 그리고 다시 압축을 하고 이름을 JavaScript.sublime-package으로 바꾼 후 원래의 파일에 덮어씌워 준다. 압축을 하는 터미널 명령어는 아래와 같다.
+이렇게 될 것 이다. -가 앞에 있는 줄이 바꾸기 전이고, +가 앞에 있는 줄이 바꾼 후 이다. 그리고 다시 압축을 하고 이름을 JavaScript.sublime-package으로 바꾼 후 원래의 파일에 덮어씌워 준다. 압축을 하는 터미널 명령어는 아래와 같다.
 
 {% highlight bash %}
 # JavaScript 폴더로 들어가기
