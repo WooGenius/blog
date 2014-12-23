@@ -26,7 +26,7 @@ Mac OS기준이며 ```Sublime Text > Preferences > Key Bindings - User```를 클
     // 단어를 선택하는 Sublime Text의 기본단축키를 cmd + r로 옮겼다.
     { "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
 
-    // amd + alt + 아래 방향키를 사용하여 한줄을 아래로 복사하는 단축키이다.
+    // cmd + alt + 아래 방향키를 사용하여 한줄을 아래로 복사하는 단축키이다.
     { "keys": ["super+alt+down"], "command": "duplicate_line" },
 
     // 단어를 선택하고 아래로 내려가며 찾아 커서를 만드는 Sublime Text기본 단축키이다.
