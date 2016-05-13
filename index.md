@@ -21,3 +21,14 @@ Portfolio와 Blog의 목적으로 [jekyll](http://jekyllrb.com/)을 사용하여
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 리뷰리퍼블릭 테스트 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7723263421107958"
+     data-ad-slot="4491171021"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
